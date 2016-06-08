@@ -3,7 +3,7 @@ description: "Personal website by Pat Xu"
 meta_description: "Personal website by Pat Xu"
 
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 logo: true
 paginate: 15
 baseurl: /
