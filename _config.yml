@@ -1,12 +1,12 @@
 name: Pat Xu
-description: Blogging about stuffs
+description:
 meta_description: "Pat Xu"
 
 markdown: kramdown
 highlighter: rogue
 logo: false
 paginate: 15
-baseurl: 
+baseurl: /
 domain_name: 'http://patrickxu.com'
 gems: [jekyll-paginate]
 
