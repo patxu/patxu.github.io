@@ -17,6 +17,12 @@ about: 'about.html'
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
+            {% if site.author %}
+                <figure class="author-image cover-image">
+                    <a class="img" href="{{ site.baseurl }}" style="background-image: url(/assets/images/profile.png)">
+                    <span class="hidden">{{site.author}}'s Picture</span></a>
+                </figure>
+            {% endif %}
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
                 <!-- {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %} -->
