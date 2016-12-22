@@ -1,6 +1,34 @@
 ---
 layout: post
-title:  "DALI 17W!"
+title:  "Welcome to DALI 17W!"
 date:   2016-12-21 16:00:00
 categories: DALI School
 ---
+
+Hello and welcome, people of DALI 17W! Many of you I already know, but for those of you who I have yet to meet, my name is Pat and I'm a '17 CS major and lead developer at DALI. I grew up in a small New England town on the coast of Massachusetts where I frequently devoured large plates of a regional specialty – fried seafood.
+
+<img src="/assets/images/pat-woodmans.jpg" style="width: 50%; height: auto; margin: 0 auto">
+
+## DALI and I
+Starting my sophomore fall, I applied to DALI three, maybe four times before I was finally accepted. Perhaps many of you can relate to my experience – my initial applications used code samples from class and showed basically zero real-world experience. When I finally got a chance to join DALI as a junior I felt a huge sense of accomplishment, but was also unbelievably nervous for the coming orientation (back then, we had only 2 days notice before orientation!).
+
+Going on my 5th term here, DALI has become my most cherished community at Dartmouth. As a space to learn, being able to work closely with brilliant developers has given me the chance to learn new technologies (e.g. iOS) but also taught me real-world engineering practices (e.g. source control, linting, deployment), that are often overlooked in class. In terms of leadership, I've had the opportunity to serve as as Core (student staff) member for 3 terms, leading workshops, planning events, and just helping wherever I can to help things run smoothly (I love working behind-the-scenes!). Finally, the space itself has become a relaxing and friendly place where I chat, nap, watch movies, and order late-night wings.
+
+DALI has already given me a lot, but in the couple terms I have left at Dartmouth there are still a few things I want to focus on. Early during my time at DALI I worked on two iOS applications, [BookUP](http://dali.dartmouth.edu/projects-blog/2015/11/bookup) and PinPoint, but in the 2 terms since then I have solely focused on my role as a project manager, developer resource, and staff member. It's my goal in the next couple months to continue learning or improving on some technologies that I find interesting/useful/exciting, like React.
+
+## Something About Me
+Photography is one of my favorite hobbies. I don't have any formal training, and my skill using post-processing software is limited (these images here are basically unaltered), but I hope you enjoy a few of my favorites!
+
+<img src="/assets/images/cover-photo.jpg" style="width: 90%; height: auto; margin: 0 auto;">
+In Grand Teton National Park, inspired by [Ansel Adams](http://kylehammons.com/blog/archives/2190)
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+<img src="/assets/images/photography-sunset.jpg" style="width: 90%; height: auto; margin: 0 auto;">
+Sunset from a boat near my hometown.
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+<img src="/assets/images/photography-moon.jpg" style="width: 90%; height: auto; margin: 0 auto;">
+My first foray into nighttime photography, right outside my house!
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+Thanks for reading! In the couple weeks before term, feel free to find me on Slack, @patxu!
