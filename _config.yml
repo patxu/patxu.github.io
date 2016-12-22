@@ -14,3 +14,13 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'patrickxu.com'
 author:         'Pat Xu'
+
+social:
+  - title: envelope
+    url: mailto:patrickxu13@gmail.com
+  - title: github
+    url: http://github.com/patxu
+  - title: linkedin
+    url: https://www.linkedin.com/in/patxu2017
+  - title: instagram
+    url: https://instagram.com/patxu.13
