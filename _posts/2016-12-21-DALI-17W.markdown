@@ -8,6 +8,8 @@ categories: DALI School
 Hello and welcome, people of DALI 17W! Many of you I already know, but for those of you who I have yet to meet, my name is Pat and I'm a '17 CS major and lead developer at DALI. I grew up in a small New England town on the coast of Massachusetts where I frequently devoured large plates of a regional specialty – fried seafood.
 
 <img src="/assets/images/pat-woodmans.jpg" style="width: 50%; height: auto; margin: 0 auto">
+Clams, scallops, fish, shrimp. YUM.
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 ## DALI and I
 Starting my sophomore fall, I applied to DALI three, maybe four times before I was finally accepted. Perhaps many of you can relate to my experience – my initial applications used code samples from class and showed basically zero real-world experience. When I finally got a chance to join DALI as a junior I felt a huge sense of accomplishment, but was also unbelievably nervous for the coming orientation (back then, we had only 2 days notice before orientation!).
