@@ -20,7 +20,7 @@ DALI has already given me a lot, but in the couple terms I have left at Dartmout
 Photography is one of my favorite hobbies. I don't have any formal training, and my skill using post-processing software is limited (these images here are basically unaltered), but I hope you enjoy a few of my favorites!
 
 <img src="/assets/images/cover-photo.jpg" style="width: 90%; height: auto; margin: 0 auto;">
-In Grand Teton National Park, inspired by [Ansel Adams](http://kylehammons.com/blog/archives/2190)
+In Grand Teton National Park, inspired by [Ansel Adams](http://kylehammons.com/blog/archives/2190).
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 <img src="/assets/images/photography-sunset.jpg" style="width: 90%; height: auto; margin: 0 auto;">
