@@ -30,7 +30,7 @@ Sunset from a boat near my hometown.
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 <img src="/assets/images/photography-moon.jpg" style="width: 90%; height: auto; margin: 0 auto;">
-My first foray into nighttime photography, right outside my house!
+My foray into nighttime photography, right outside my house!
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 Thanks for reading! In the couple weeks before term, feel free to find me on Slack, @patxu!
