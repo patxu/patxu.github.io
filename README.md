@@ -1,6 +1,10 @@
-# [My Personal Website](http://patrickxu.com)
+# My Personal Website 
 
-Learn about me!
+Learn about me [here](http://patrickxu.com).
+
+## Development
+
+Run locally: `bundle exec jekyll serve`
 
 ## Jekyll
 
