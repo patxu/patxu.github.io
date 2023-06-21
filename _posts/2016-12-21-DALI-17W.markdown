@@ -7,7 +7,7 @@ categories: DALI School
 
 Hello and welcome, people of DALI 17W! Many of you I already know, but for those of you who I have yet to meet, my name is Pat and I'm a '17 CS major and lead developer at DALI. I grew up in a small New England town on the coast of Massachusetts where I frequently devoured large plates of a regional specialty – fried seafood.
 
-<img src="/assets/images/pat-woodmans.jpg" style="width: 50%; height: auto; margin: 0 auto">
+<img src="/assets/posts/images/pat-woodmans.jpg" style="width: 50%; height: auto; margin: 0 auto">
 Clams, scallops, fish, shrimp. YUM.
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
@@ -21,15 +21,15 @@ DALI has already given me a lot, but in the couple terms I have left at Dartmout
 ## Something About Me
 Photography is one of my favorite hobbies. I don't have any formal training, and my skill using post-processing software is limited (these images here are basically unaltered), but I hope you enjoy a few of my favorites!
 
-<img src="/assets/images/cover-photo.jpg" style="width: 90%; height: auto; margin: 0 auto;">
+<img src="/assets/posts/images/cover-photo.jpg" style="width: 90%; height: auto; margin: 0 auto;">
 In Grand Teton National Park, inspired by [Ansel Adams](http://kylehammons.com/blog/archives/2190).
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-<img src="/assets/images/photography-sunset.jpg" style="width: 90%; height: auto; margin: 0 auto;">
+<img src="/assets/posts/images/photography-sunset.jpg" style="width: 90%; height: auto; margin: 0 auto;">
 Sunset from a boat near my hometown.
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-<img src="/assets/images/photography-moon.jpg" style="width: 90%; height: auto; margin: 0 auto;">
+<img src="/assets/posts/images/photography-moon.jpg" style="width: 90%; height: auto; margin: 0 auto;">
 My foray into nighttime photography, right outside my house!
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
