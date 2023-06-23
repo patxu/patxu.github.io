@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Resume"
-    url: /resume.pdf
+    url: /resume/
   - title: "Contact"
     url: /contact/
   # - title: "Sample Posts"
