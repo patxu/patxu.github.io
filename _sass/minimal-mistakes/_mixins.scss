@@ -2,8 +2,6 @@
    MIXINS
    ========================================================================== */
 
-@use "sass:math";
-
 %tab-focus {
   /* Default*/
   outline: thin dotted $focus-color;
@@ -65,7 +63,7 @@
   $green: green($color);
   $blue: blue($color);
 
-  $yiq: (($red*299)+($green*587)+($blue*114))*0.001;
+  $yiq: (($red*299)+($green*587)+($blue*114))/1000;
 
   @if $yiq-debug {
     @debug $yiq,
