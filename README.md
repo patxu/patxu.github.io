@@ -34,9 +34,9 @@ This site runs on Jekyll, an opensource static site generating platform.
 
 ## TODOs
 A few things up next:
-- [ ] missing Google analytics
 - [ ] a simpler design that doesn't deal with posts at all - Jekyll is probably overkill
 - [ ] including some other links like Github, Contact page
+- [ ] perf improvements on load time from https://pagespeed.web.dev/
 
 ## Theme
 This website is based of the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme.
