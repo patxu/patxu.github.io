@@ -1,7 +1,9 @@
 ---
+title: " "
 layout: splash
 header:
-  image: /assets/images/cover-photo.jpg
+  overlay_image: /assets/images/background_2.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+tagline: You can see what I'm up to on [Instagram](https://instagram.com/patxu.13), connect with me on [Linkedin](https://www.linkedin.com/in/patxu13/), or hear what I'm listening to on [Spotify](https://open.spotify.com/user/125862541).
 ---
-
-You can see what I'm up to on [Instagram](https://instagram.com/patxu.13), connect with me on [Linkedin](https://www.linkedin.com/in/patxu13/), or hear what I'm listening to on [Spotify](https://open.spotify.com/user/125862541).

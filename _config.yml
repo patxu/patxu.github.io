@@ -96,7 +96,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "false" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-0W19VEE0NX"
     anonymize_ip         : # true, false (default)
@@ -106,11 +106,11 @@ analytics:
 author:
   name             : "Pat Xu"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "🚧 Website under construction 🚧"
+  bio              : ""
   location         : "Cambridge, MA"
   email            :
   links:
-    - label: "Email"
+    - label: "patrickxu13@gmail.com"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:patrickxu13@gmail.com"
     - label: "Website"
